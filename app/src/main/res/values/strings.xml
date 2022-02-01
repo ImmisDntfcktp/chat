@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My chat</string>
+    <string name="send">send</string>
+    <string name="hint_message">write something…</string>
+    <string name="google_sign_in">google sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="empty" />
+</resources>
